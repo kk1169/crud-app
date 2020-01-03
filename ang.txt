@@ -1,0 +1,12 @@
+ANGULAR FOLDER STRUCTURE
+1. e2e: 
+    This folder is used for integration testing.(Not for unit testing)
+2. node_modules: 
+    This folder is auto generated while application creation. 
+    This folder referenced all the packages which installed in the application.
+3. editorconfig:
+    This file is used for team environment. In this file we can defined custom rules for team.
+    Teams follow all rules which defined in this file.
+4. gitignore: 
+    This is used for git repository purpose. 
+5.
